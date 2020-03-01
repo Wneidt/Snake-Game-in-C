@@ -8,11 +8,14 @@
 #include <windows.h>
 #include <process.h>
 
+
 #define UP 72
 #define DOWN 80
 #define LEFT 75
 #define RIGHT 77
+
 // all of the variables
+
 int length;
 int bend_no;
 int len;
